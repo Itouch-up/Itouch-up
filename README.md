@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![{}'s github stats](https://github-readme-stats.vercel.app/api?username=Itouch-up&show_icons=true&&theme=dark)
+<br/>
+![{}'s github stats langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Itouch-up&layout=compact&&theme=dark)
+<br/>
+![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=Itouch-up)
