@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 <br/>
 ![{}'s github stats langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Itouch-up&layout=compact&&theme=dark)
 <br/>
-![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=Itouch-up)
+<!-- ![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=Itouch-up) -->
